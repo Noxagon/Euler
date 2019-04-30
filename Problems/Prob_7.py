@@ -6,6 +6,7 @@ primeNum = 3
 
 prime.append(2)
 
+# Make a list of 10001 prime numbers
 while len(prime) < 10001:
     i = 0
     check = True
